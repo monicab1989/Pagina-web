@@ -1,3 +1,7 @@
 #dibujo {
   border: solid 1em red;
 }
+
+#texto {
+  font-size: medium;
+}
